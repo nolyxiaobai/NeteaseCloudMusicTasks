@@ -1,0 +1,11 @@
+# adobe
+PROCESS-NAME,Adobe photoshop 2014
+PROCESS-NAME,Creative Cloud Interprocess Service
+PROCESS-NAME,Creative Cloud Core Service
+PROCESS-NAME,Creative Cloud Content Manager
+PROCESS-NAME,Creative Cloud Libraries Synchronizer
+PROCESS-NAME，Adobe*
+DOMAIN-SUFFIX,adobe.io
+DOMAIN-SUFFIX,adobelogin.com
+DOMAIN-SUFFIX,adobe.com
+DOMAIN-SUFFIX,cc-api-data.adobe.io
