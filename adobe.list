@@ -1,5 +1,6 @@
 # adobe
 PROCESS-NAME,Adobe photoshop 2014
+PROCESS-NAME,Adobe Illustrator 2024
 PROCESS-NAME,Creative Cloud Interprocess Service
 PROCESS-NAME,Creative Cloud Core Service
 PROCESS-NAME,Creative Cloud Content Manager
@@ -9,11 +10,4 @@ DOMAIN-SUFFIX,adobe.io
 DOMAIN-SUFFIX,adobelogin.com
 DOMAIN-SUFFIX,adobe.com
 DOMAIN-SUFFIX,cc-api-data.adobe.io
-DOMAIN-KEYWORD,openai
-DOMAIN-SUFFIX,ai.com
-DOMAIN-SUFFIX,challenges.cloudflare.com
-DOMAIN-SUFFIX,openai.com
-DOMAIN-SUFFIX,openaiapi-site.azureedge.net
-DOMAIN-SUFFIX,stripe.com
-DOMAIN-SUFFIX,sentry.io
-DOMAIN-SUFFIX,fresnostate.edu
+DOMAIN-SUFFIX,*adobe.com
