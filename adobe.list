@@ -9,3 +9,10 @@ DOMAIN-SUFFIX,adobe.io
 DOMAIN-SUFFIX,adobelogin.com
 DOMAIN-SUFFIX,adobe.com
 DOMAIN-SUFFIX,cc-api-data.adobe.io
+DOMAIN-KEYWORD,openai
+DOMAIN-SUFFIX,ai.com
+DOMAIN-SUFFIX,challenges.cloudflare.com
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,sentry.io
